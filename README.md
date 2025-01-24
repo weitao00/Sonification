@@ -1,6 +1,7 @@
 # Multi-Domain Data Sonification and Visualization
 
-This project explores the **sonification** and **visualization** of two distinct datasets: **Exoplanets** and **Wines**. By leveraging **machine learning** techniques to analyze and reduce data dimensionality, and by mapping data attributes to musical parameters, the project creates an immersive multi-sensory experience. Users can **listen** to data-driven compositions and **visualize** data interactions simultaneously, unveiling hidden patterns and relationships within the datasets.
+This project explores the **sonification** and **visualization** of two distinct datasets: **Exoplanets** and **Wines**. By leveraging **machine learning** techniques to analyze and reduce data dimensionality, and by mapping data attributes to musical parameters, the project creates an immersive multi-sensory experience. Users can **listen** to data-driven compositions and **visualize** data interactions simultaneously, discovering hidden patterns and relationships within the datasets.
+The use of **animated visualizations** captures the temporal aspects of the data, allowing users to observe changes and interactions over time. This dual representation aids in data interpretation and provides an engaging way to interact with information.
 ## Video Demonstrations
 
 ### Exoplanet Sonification
