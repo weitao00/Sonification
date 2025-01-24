@@ -29,9 +29,6 @@ The use of **animated visualizations** captures the temporal aspects of the data
 - [Setup Instructions](#setup-instructions)
 - [Usage Guidelines](#usage-guidelines)
 - [Customization](#customization)
-- [Dependencies](#dependencies)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
