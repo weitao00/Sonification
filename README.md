@@ -4,10 +4,10 @@ This project explores the **sonification** and **visualization** of two distinct
 The use of **animated visualizations** captures the temporal aspects of the data, allowing users to observe changes and interactions over time. This dual representation aids in data interpretation and provides an engaging way to interact with information.
 ## Video Demonstrations
 
-### Exoplanet Sonification
+### Exoplanet Sonification with animation
 [[Exoplanet Sonification]](https://youtu.be/LSw6supn1M0)
 
-### Wine Dataset Visualization
+### Wine Sonification with animation
 [[Wine Dataset Visualization]]( https://youtu.be/jxLosmN3pR4)
 ## Table of Contents
 
