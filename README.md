@@ -5,10 +5,10 @@ The use of **animated visualizations** captures the temporal aspects of the data
 ## Video Demonstrations
 
 ### Exoplanet Sonification with Animation
-[[Exoplanet Sonification]](https://youtu.be/LSw6supn1M0)
+[[Exoplanet Sonification and Visualization]](https://youtu.be/LSw6supn1M0)
 
 ### Wine Sonification with Animation
-[[Wine Dataset Visualization]]( https://youtu.be/jxLosmN3pR4)
+[[Wine Sonification and Visualization]]( https://youtu.be/jxLosmN3pR4)
 ## Table of Contents
 
 - [Project Overview](#project-overview)
